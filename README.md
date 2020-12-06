@@ -2,7 +2,7 @@
 
 ### Projeto Amazonômetro
 
-##### Resumo Executivo
+#### Resumo Executivo
 Em junho de 2020, de acordo com dados do Inpe, o número de queimadas na Amazônia foi o maior observado para o mês desde 2007. Em setembro de 2020, novamente de acordo com dados do Inpe, o número de queimadas em um ano para o Pantanal bateu recordes históricos. Os focos de incêndio de janeiro a setembro ultrapassaram o pico mais alto registrado em 2005. Os dados foram intensamente repercutidos pela grande imprensa e geraram enorme comoção e manifestações contrárias ao Governo Bolsonaro em diferentes segmentos. Sabe-se que Bolsonaro tem atuado timidamente no combate ao desmatamento da vegetação nativa na região. O relatório apresentado a seguir procura dar conta desse cenário, analisando em especial os dados referentes à Amazônia e ao Pantanal sul-mato-grossense em um conjunto de grupos bolsonaristas no WhatsApp.
 
 **Metodologia** · Para este relatório, foram monitorados cerca de 60 grupos públicos de discussão política no WhatsApp que apresentam abrangência nacional e indicam explicitamente apoio ao Governo Bolsonaro. Os grupos foram selecionados por meio de uma metodologia prospectiva de bola-de-neve, baseada em uma técnica de pesquisa encoberta, em que os sujeitos pesquisados não têm acesso aos parâmetros de investigação, ainda que tenham seus dados privados inteiramente resguardados. O conjunto de grupos selecionados tem característica de apoio ao governo e abrangência nacional. Ele reúne aproximadamente 4 mil usuários. Os dados coletados referem-se aos meses de agosto a outubro de 2020, e reúnem um universo de pouco mais de 429 mil mensagens trocadas nesse intervalo. 
