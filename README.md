@@ -15,9 +15,9 @@ Há três tipos de dados contidos neste repositório: um *report*, um *dataset* 
 O `relatório` apresenta em formato narrativo os dados levantados pela pesquisa. O repositório reúne um documento e slides, ambos em formato PDF.
 
 ### Plots
-As imagens apresentadas na pasta `plot` se referem a gráficos plotados a partir dos dados trabalhados para o relatório.
-
 <a><img src='https://github.com/ombudsmanviktor/data_amz/blob/main/plots/plot5_history.png' align="right" height="200" /></a>
+
+As imagens apresentadas na pasta `plot` se referem a gráficos plotados a partir dos dados trabalhados para o relatório.
 
 ### Tabelas de contingência
 As `tabelas de contingência` foram exportadas em formato XLS, para facilitar o manuseio. São cortes dos dados obtidos a partir do banco original, sempre em nível agregado.
@@ -26,6 +26,6 @@ As `tabelas de contingência` foram exportadas em formato XLS, para facilitar o 
 
 Para referência, favor citar:
 
-``` r
+```
 CHAGAS, V. Relatório Amazonômetro: Amazônia no WhatsApp. https://doi.org/10.6084/m9.figshare.13338974.v1
 ```
