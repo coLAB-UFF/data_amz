@@ -17,7 +17,7 @@ Há três tipos de dados contidos neste repositório: um *report*, um *dataset* 
 O `relatório` apresenta em formato narrativo os dados levantados pela pesquisa. O repositório reúne um documento e slides, ambos em formato PDF.
 
 ### Plots
-<a><img src='https://github.com/ombudsmanviktor/data_amz/blob/main/plots/plot5_history.png' align="right" height="200" /></a>
+![Image](https://github.com/ombudsmanviktor/data_amz/blob/main/plots/plot5_history.png)
 
 As imagens apresentadas na pasta `plot` se referem a gráficos plotados a partir dos dados trabalhados para o relatório.
 
